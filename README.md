@@ -1,0 +1,2 @@
+# sticker
+chat con sticker
