@@ -4,7 +4,7 @@
     <description>prova sticker chat</description>
     <author email="support@phonegap.com" href="http://phonegap.com">PhoneGap Team</author>
     <content src="index.html" />
-    <gap:plugin name="org.apache.cordova.battery-status" />
+    
     <gap:plugin name="org.apache.cordova.camera" />
     <gap:plugin name="org.apache.cordova.media-capture" />
     <gap:plugin name="org.apache.cordova.console" />
